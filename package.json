@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +18,8 @@
     "json-server": "^0.17.4"
   }
 }
+
+ 
+
 
 
